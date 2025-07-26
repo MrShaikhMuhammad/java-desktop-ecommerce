@@ -53,9 +53,9 @@ We made a basic shopping system for mobile phones where users can:
 
 
 ✅ Key Points
-We used prepared statements to prevent SQL injection.
-The UI is simple and easy to understand.
-The app is structured clearly so it’s easy to update later.
+* We used prepared statements to prevent SQL injection.
+* The UI is simple and easy to understand.
+* The app is structured clearly so it’s easy to update later.
 
 
 🚀 Possible Improvements
