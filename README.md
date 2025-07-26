@@ -1,14 +1,15 @@
 # MobiLink – E-Commerce Application
 This is a desktop-based mobile store app built in Java. It lets users sign up, log in, browse mobile phones, add them to a cart, and place orders. The backend uses MySQL, and the UI is made using Java Swing.
 <br>
+<br>
 
-🔧 Tools & Technologies
+## Tools & Technologies
 * Java Swing – for the GUI
 * JDBC – for database connection
 * MySQL – for storing data
 <br>
 
-💡 What We Built
+## What We Built
 We made a basic shopping system for mobile phones where users can:
 * Create an account and log in
 * View mobile phones with details
@@ -18,7 +19,7 @@ We made a basic shopping system for mobile phones where users can:
 <br>
 
 
-🧭 How It Works
+## How It Works
 1. Login & Registration
 * Users can sign up with their name, phone, email, username, and password.
 * All inputs are validated (e.g. valid email, phone number must be 11 digits).
@@ -36,7 +37,7 @@ We made a basic shopping system for mobile phones where users can:
 
 <br>
 
-🔍 Code Structure
+## Code Structure
 | Layer Role   | Technology                                 |
 |--------------|--------------------------------------------|
 | UI Layer     | Forms, Buttons, Tables - Java Swing        |
@@ -44,7 +45,7 @@ We made a basic shopping system for mobile phones where users can:
 | Data Layer   | DB communication - JDBC + MySQL            |
 <br>
 
-🗂️ Main Java Files
+## Main Java Files
 * LoginGui.java – Handles login
 * RegisterGui.java – Handles registration
 * CartFrame.java – Shows and manages the cart
@@ -53,18 +54,18 @@ We made a basic shopping system for mobile phones where users can:
 * Product.java, User.java – Entity classes
 <br>
 
-✅ Key Points
+## Key Points
 * We used prepared statements to prevent SQL injection.
 * The UI is simple and easy to understand.
 * The app is structured clearly so it’s easy to update later.
 <br>
 
-🚀 Possible Improvements
+## Possible Improvements
 * Password hashing
 * Better product filtering/search
 * Payment system
 * Order history
 <br>
 
-📌 Conclusion
+## Conclusion 
 This project helped us practice how to make a real-world desktop app in Java using proper layers and database handling. It covers all the basic things you'd expect in a shopping system, and can be expanded further if needed.
