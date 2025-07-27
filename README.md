@@ -55,7 +55,7 @@ We made a basic shopping system for mobile phones where users can:
 <br>
 
 
-> [!Key Points]
+> [!Key-Points]
 > * We used prepared statements to prevent SQL injection.
 > * The UI is simple and easy to understand.
 > * The app is structured clearly so it’s easy to update later.
