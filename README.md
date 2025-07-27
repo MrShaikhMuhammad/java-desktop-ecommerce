@@ -21,9 +21,9 @@ We made a basic shopping system for mobile phones where users can:
 
 ## How It Works
 1. <b>Login & Registration</b>
-* Users can sign up with their name, phone, email, username, and password.
-* All inputs are validated (e.g. valid email, phone number must be 11 digits).
-* Users can log in using their credentials.
+** Users can sign up with their name, phone, email, username, and password.
+** All inputs are validated (e.g. valid email, phone number must be 11 digits).
+** Users can log in using their credentials.
 
 2. <b>Browsing Products</b>
 * A list of mobile phones is shown with their brand, price, and stock.
