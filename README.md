@@ -55,7 +55,7 @@ We made a basic shopping system for mobile phones where users can:
 <br>
 
 
-> [!INFO]
+> [!NOTE]
 > * We used prepared statements to prevent SQL injection.
 > * The UI is simple and easy to understand.
 <br>
