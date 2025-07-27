@@ -46,12 +46,14 @@ We made a basic shopping system for mobile phones where users can:
 <br>
 
 ## Main Java Files
-* LoginGui.java – Handles login
-* RegisterGui.java – Handles registration
-* CartFrame.java – Shows and manages the cart
-* MobileManagementPanel.java – Admin panel for products
-* DatabaseConnection.java – DB helper class
-* Product.java, User.java – Entity classes
+| Class                      | Description                | 
+|----------------------------|----------------------------|
+| LoginGui.java              | Handles login              |
+| RegisterGui.java           | Handles registration       |
+| CartFrame.java             | Shows and manages the cart |
+| MobileManagementPanel.java | Admin panel for products   |
+| DatabaseConnection.java    | DB helper class            |
+| Product.java, User.java    | Entity classes             |
 <br>
 
 
