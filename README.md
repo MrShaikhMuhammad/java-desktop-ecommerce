@@ -30,10 +30,10 @@ We made a basic shopping system for mobile phones where users can:
 * Each product has an Add to Cart button.
 
 3. <b>Shopping Cart</b>
-* Cart shows product name, price, quantity, and total.
-* Users can change quantity or remove items.
-* A flat shipping fee of Rs. 1000 is added.
-* Final order can be placed using the Buy Now button.
++ Cart shows product name, price, quantity, and total.
++ Users can change quantity or remove items.
++ A flat shipping fee of Rs. 1000 is added.
++ Final order can be placed using the Buy Now button.
 
 <br>
 
