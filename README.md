@@ -46,7 +46,7 @@ We made a basic shopping system for mobile phones where users can:
 <br>
 
 ## Main Java Files
-| Class                      | Description                | 
+| Files                      | Description                | 
 |----------------------------|----------------------------|
 | LoginGui.java              | Handles login              |
 | RegisterGui.java           | Handles registration       |
