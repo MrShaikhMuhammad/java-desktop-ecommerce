@@ -21,19 +21,25 @@ We made a basic shopping system for mobile phones where users can:
 
 ## How It Works
 1. Login & Registration
-> * Users can sign up with their name, phone, email, username, and password.
-> * All inputs are validated (e.g. valid email, phone number must be 11 digits).
-> * Users can log in using their credentials.
+<ul>
+    <li>Users can sign up with their name, phone, email, username, and password.</li>
+    <li>All inputs are validated (e.g. valid email, phone number must be 11 digits).</li>
+    <li>Users can log in using their credentials.</li>
+</ul>
 
 2. Browsing Products
-> * A list of mobile phones is shown with their brand, price, and stock.
-> * Each product has an Add to Cart button.
+<ul>
+    <li>A list of mobile phones is shown with their brand, price, and stock.</li>
+    <li>Each product has an Add to Cart button.</li>
+</ul>
 
 3. Shopping Cart
-> * Cart shows product name, price, quantity, and total.
-> * Users can change quantity or remove items.
-> * A flat shipping fee of Rs. 1000 is added.
-> * Final order can be placed using the Buy Now button.
+<ul>
+    <li>Cart shows product name, price, quantity, and total.</li>
+    <li>Users can change quantity or remove items.</li>
+    <li>A flat shipping fee of Rs. 1000 is added.</li>
+    <li>Final order can be placed using the Buy Now button.</li>
+</ul>
 
 <br>
 
